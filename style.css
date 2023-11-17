@@ -1,0 +1,90 @@
+/* CSS Reset */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    color: #ececec;
+    text-decoration: none;
+}
+
+#NJT {
+    cursor: default;
+    color: #ececec;
+}
+
+#NJT-landing {
+    font-weight: 600;
+}
+#navbar {
+    background-color: #0e1424;
+    color: white;
+    padding: 0;
+    margin-bottom: 1rem;
+}
+
+body {
+    background-color: #ececec;
+}
+
+#projects {
+    background-color: #0e1424;
+    color: #ececec;
+}
+
+#projects-font {
+    font-weight: 600;
+    letter-spacing: 10px;
+}
+
+.card-title {
+    font-weight: 400;
+}
+
+#tools-font {
+    font-weight: 500;
+    letter-spacing: 10px;
+}
+
+#contact {
+    background-color: #0e1424;
+}
+
+#contact-me {
+    color: #ececec;
+    letter-spacing: 6px;
+}
+
+#email-address, #message {
+    color: #ececec;
+}
+
+.btn {
+    background-color: #ececec;
+    color: #0e1424;
+    font-weight: 400;
+}
+
+footer {
+    background-color: #ececec;
+    color: #0e1424;
+}
+
+
+
+
+/*
+#0e1424 - dark blue
+
+#3724254 - navy blue
+
+#8a8fa3 - mid tone
+
+#adbbc6 - light tone
+
+#ececec - background color
+*/
